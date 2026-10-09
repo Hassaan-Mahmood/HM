@@ -1,12 +1,2 @@
 # HM
 Hassaan Mahmood
-
-
-
-
-
-
-
-
-
-
