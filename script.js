@@ -66,3 +66,19 @@ form.addEventListener("submit", async (event) => {
 const username = usernameInput.value.trim();
 const content = messageInput.value.trim();
 
+if (!username || !content) return;
+
+if (username > 30 || content > 100) {
+    showStatus.textContent = "Name or Message are too long."
+    return;
+}
+
+messageInput.disabled = true;
+
+const {error} = await dataBase
+.from("messages")
+.insert([{username, content}])
+
+showStatus.textContent = "Message send nhi howa: " + error.message;
+
+
