@@ -8,3 +8,4 @@ A little progress is still progress.
 Writing code, one line at a time.
 Today I reviewed useState and useEffect.
 Building good habits, commit by commit.
+Curious about how the web works.
