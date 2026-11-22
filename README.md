@@ -21,3 +21,4 @@ Building a little every single day.
 Code, learn, repeat — that is the plan.
 Curious about hooks and how they work.
 Keep the streak going, one commit at a time.
+Learning from Karachi, growing every day.
