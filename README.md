@@ -19,3 +19,4 @@ Small daily commits keep the habit alive.
 Today I will review props and state.
 Building a little every single day.
 Code, learn, repeat — that is the plan.
+Curious about hooks and how they work.
