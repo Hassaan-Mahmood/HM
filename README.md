@@ -28,3 +28,4 @@ Today I split my profile card into components.
 Props make one component work for many things.
 Learning React step by step, day by day.
 Small commits, steady progress, every single day.
+My internet is back, so today I can build more.
