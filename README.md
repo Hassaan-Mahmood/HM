@@ -25,3 +25,4 @@ Learning from Karachi, growing every day.
 Tomorrow I will build something new.
 Monday morning, starting a new week of learning.
 Today I split my profile card into components.
+Props make one component work for many things.
