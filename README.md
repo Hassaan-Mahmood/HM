@@ -32,3 +32,4 @@ My internet is back, so today I can build more.
 Working on the login, signup and todo pages.
 Supabase auth is new, but I am learning it.
 Each user should only see their own todos.
+Tomorrow I will keep going with Day 4.
