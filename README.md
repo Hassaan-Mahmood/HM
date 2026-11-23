@@ -30,3 +30,4 @@ Learning React step by step, day by day.
 Small commits, steady progress, every single day.
 My internet is back, so today I can build more.
 Working on the login, signup and todo pages.
+Supabase auth is new, but I am learning it.
