@@ -36,3 +36,4 @@ Tomorrow I will keep going with Day 4.
 Tuesday evening, still learning and building.
 Today I checked new Karachi job openings.
 React roadmap is keeping me on track.
+Small steps every day add up to big progress.
