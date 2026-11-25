@@ -41,3 +41,4 @@ Working on my portfolio and todo app.
 Learning to fix build errors step by step.
 Every commit is a small win to celebrate.
 Keep practising JavaScript and React daily.
+From Karachi, building skills for a junior role.
