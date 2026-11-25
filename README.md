@@ -38,3 +38,4 @@ Today I checked new Karachi job openings.
 React roadmap is keeping me on track.
 Small steps every day add up to big progress.
 Working on my portfolio and todo app.
+Learning to fix build errors step by step.
