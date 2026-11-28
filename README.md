@@ -47,3 +47,4 @@ Tuesday catch-up: yesterday's learning, logged today.
 Revisiting the todo app flow before moving on.
 Login and signup pages are coming together.
 Every user gets their own todos, nothing shared.
+Practising components so the code stays tidy.
