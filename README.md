@@ -49,3 +49,4 @@ Login and signup pages are coming together.
 Every user gets their own todos, nothing shared.
 Practising components so the code stays tidy.
 A little progress every day adds up fast.
+Working through the React roadmap, one day at a time.
