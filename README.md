@@ -44,3 +44,4 @@ Keep practising JavaScript and React daily.
 From Karachi, building skills for a junior role.
 Tomorrow I will keep learning and applying.
 Tuesday catch-up: yesterday's learning, logged today.
+Revisiting the todo app flow before moving on.
